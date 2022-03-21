@@ -1,5 +1,5 @@
 # main
-
+Learning Project based off Traversy media vue crash course twisted from a task tracker to a ship tracker.
 ## Project setup
 ```
 yarn install
